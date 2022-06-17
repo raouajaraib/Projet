@@ -12,12 +12,17 @@ L’objectif global du projet est : Réduire la vulnérabilité des populations 
 2)	Objectifs spécifiques
 
 Pour atteindre cet objectif global, plusieurs objectifs spécifiques ont été définis :
+
 OS1- Diminution de la mortalité dues aux catastrophes météorologiques
+
 OS2- Diminution des pertes du secteur agricole (agriculture, bétails, ...) face aux catastrophes
 
 3)	Objectifs fonctionnels
 
 Pour contribuer à l’atteinte des objectifs spécifiques, des objectifs fonctionnels ont été définis :
+
 OF1- La prédiction de l'intensité de précipitations (pluviométrie) est réalisée
+
 OF2- La prévision des phénomènes météorologiques est effectuée
+
 OF3- Un applicatif est réalisé
