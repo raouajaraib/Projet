@@ -4,7 +4,7 @@ Ce genre d'étude peut être important notamment pour des pays en développement
 
 L'idée serait donc de créer un projet avec pour livrable final un applicatif avec un modèle de machine Learning, que l'on pourrait déployer auprès d'acteurs étatiques ou de la société civile, pour mieux apprécier/appréhender ces phénomènes climatiques concernant l'agriculture notamment.
 
-II.	OBJECTIF DU PROJET
+**II.	OBJECTIF DU PROJET**
 1)	Objectif global
 
 L’objectif global du projet est : Réduire la vulnérabilité des populations des pays en développement et améliorer leur résilience face aux changements climatiques
