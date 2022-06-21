@@ -5,11 +5,11 @@ Ce genre d'étude peut être important notamment pour des pays en développement
 L'idée serait donc de créer un projet avec pour livrable final un applicatif avec un modèle de machine Learning, que l'on pourrait déployer auprès d'acteurs étatiques ou de la société civile, pour mieux apprécier/appréhender ces phénomènes climatiques concernant l'agriculture notamment.
 
 **II.	OBJECTIF DU PROJET**
-1)	Objectif global
+**1)	Objectif global**
 
 L’objectif global du projet est : Réduire la vulnérabilité des populations des pays en développement et améliorer leur résilience face aux changements climatiques
 
-2)	Objectifs spécifiques
+**2)	Objectifs spécifiques**
 
 Pour atteindre cet objectif global, plusieurs objectifs spécifiques ont été définis :
 
@@ -17,7 +17,7 @@ OS1- Diminution de la mortalité dues aux catastrophes météorologiques
 
 OS2- Diminution des pertes du secteur agricole (agriculture, bétails, ...) face aux catastrophes
 
-3)	Objectifs fonctionnels
+**3)	Objectifs fonctionnels**
 
 Pour contribuer à l’atteinte des objectifs spécifiques, des objectifs fonctionnels ont été définis :
 
