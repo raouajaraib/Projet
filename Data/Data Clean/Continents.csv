@@ -1,0 +1,8 @@
+PK_ID_Continent,Name_Continent,Area_Km2,Density_Km2,Population_2021,World_Population_Share
+1,Asia,31033131,150,4641054775,59.54%
+2,Africa,29648481,45,1340598147,17.20%
+3,Europe,22134900,34,747636026,9.59%
+4,"North America",21330000,28,592072212,7.60%
+5,"South America",17461112,25,430759766,5.53%
+6,Oceania,8486460,5,43111704,0.55%
+7,Antarctica,13720000,0,0,0.00%
