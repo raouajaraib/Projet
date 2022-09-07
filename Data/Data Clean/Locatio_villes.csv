@@ -1,0 +1,367 @@
+ID_CITY,ville_nom,ville_ASCII,latitude,longitude,pays,ISO_3,capital
+1004003059,Kandah?r,Kandahar,"31,6078","65,7053",Afghanistan,AFG,0
+1004016690,Qal?t,Qalat,"32,1061","66,9069",Afghanistan,AFG,0
+1004047427,"Sar-e Pul","Sar-e Pul","36,2214","65,9278",Afghanistan,AFG,0
+1004123527,"Pul-e Khumr?","Pul-e Khumri","35,95","68,7",Afghanistan,AFG,0
+1004151943,"Ma?m?d-e R?q?","Mahmud-e Raqi","35,0167","69,3333",Afghanistan,AFG,0
+1004167490,Ghazn?,Ghazni,"33,5492","68,4233",Afghanistan,AFG,0
+1004180853,"Pul-e Ã¢â‚¬ËœAlam","Pul-e `Alam","33,9953","69,0227",Afghanistan,AFG,0
+1004227517,Kunduz,Kunduz,"36,728","68,8725",Afghanistan,AFG,0
+1004237782,Her?t,Herat,"34,3738","62,1792",Afghanistan,AFG,0
+1004251962,Asad?b?d,Asadabad,"34,8742","71,1528",Afghanistan,AFG,0
+1004273142,Sharan,Sharan,"33,1757","68,7304",Afghanistan,AFG,0
+1004274041,B?my?n,Bamyan,"34,8167","67,8167",Afghanistan,AFG,0
+1004315012,Jal?l?b?d,Jalalabad,"34,4303","70,4528",Afghanistan,AFG,0
+1004374554,B?z?rak,Bazarak,"35,3129","69,5152",Afghanistan,AFG,0
+1004436363,"Maz?r-e Shar?f","Mazar-e Sharif","36,7","67,1167",Afghanistan,AFG,0
+1004450357,"K??ah-ye Ã¢â‚¬ËœAs?h?r?","Kotah-ye `Ashro","34,45","68,8",Afghanistan,AFG,0
+1004452653,Fa???b?d,Faizabad,"37,1298","70,5792",Afghanistan,AFG,0
+1004468894,Gard?z,Gardez,"33,5931","69,2297",Afghanistan,AFG,0
+1004472345,Andkh?y,Andkhoy,"36,95","65,1167",Afghanistan,AFG,0
+1004472874,"Buyn? Qarah","Buyni Qarah","36,3172","66,8747",Afghanistan,AFG,0
+1004481163,"QalÃ¢â‚¬Ëœah-ye Z?l","Qal`ah-ye Zal","37,015","68,4672",Afghanistan,AFG,0
+1004486677,Khulm,Khulm,"36,6833","67,6833",Afghanistan,AFG,0
+1004504986,Zaranj,Zaranj,"30,96","61,86",Afghanistan,AFG,0
+1004523791,Far?h,Farah,"32,3436","62,1194",Afghanistan,AFG,0
+1004546127,Karukh,Karukh,"34,4868","62,5918",Afghanistan,AFG,0
+1004564619,A?bak,Aibak,"36,2534","68,0394",Afghanistan,AFG,0
+1004590769,"Mehtar L?m","Mehtar Lam","34,6683","70,2089",Afghanistan,AFG,0
+1004622920,Ma?manah,Maimanah,"35,9302","64,7701",Afghanistan,AFG,0
+1004642532,N?l?,Nili,"33,7218","66,1302",Afghanistan,AFG,0
+1004654094,Balkh,Balkh,"36,7581","66,8989",Afghanistan,AFG,0
+1004687194,T?luq?n,Taluqan,"36,7167","69,5167",Afghanistan,AFG,0
+1004707647,"Barak? Barak","Baraki Barak","33,9667","68,9667",Afghanistan,AFG,0
+1004765445,"Lashkar G?h","Lashkar Gah","31,5938","64,3716",Afghanistan,AFG,0
+1004795942,P?r?n,Parun,"35,4206","70,9226",Afghanistan,AFG,0
+1004798735,"Ma?d?n Shahr","Maidan Shahr","34,3972","68,8697",Afghanistan,AFG,0
+1004805783,Shibirgh?n,Shibirghan,"36,665","65,752",Afghanistan,AFG,0
+1004817775,Ch?r?k?r,Charikar,"35,0183","69,1679",Afghanistan,AFG,0
+1004893931,"Tar?n K??","Tarin Kot","32,6333","65,8667",Afghanistan,AFG,0
+1004919977,Kh?st,Khost,"33,3333","69,9167",Afghanistan,AFG,0
+1004931539,Kh?n?b?d,Khanabad,"36,6831","69,1636",Afghanistan,AFG,0
+1004943705,Baghl?n,Baghlan,"36,1328","68,7",Afghanistan,AFG,0
+1004947440,"QalÃ¢â‚¬Ëœah-ye Now","Qal`ah-ye Now","34,99","63,12",Afghanistan,AFG,0
+1004965319,"Zargh?n Shahr","Zarghun Shahr","32,85","68,4167",Afghanistan,AFG,0
+1004988038,"Fayr?z K?h","Fayroz Koh","34,5225","65,2517",Afghanistan,AFG,0
+1004993580,Kabul,Kabul,"34,5328","69,1658",Afghanistan,AFG,1
+1008049831,ErsekÃƒÂ«,Erseke,"40,3333","20,6833",Albania,ALB,0
+1008080226,Belsh,Belsh,"40,9833","19,8833",Albania,ALB,0
+1008148968,KamÃƒÂ«z,Kamez,"41,3833","19,7667",Albania,ALB,0
+1008162156,Tirana,Tirana,"41,33","19,82",Albania,ALB,1
+1008173690,DurrÃƒÂ«s,Durres,"41,3242","19,4558",Albania,ALB,0
+1008184635,Patos,Patos,"40,6841","19,6194",Albania,ALB,0
+1008251523,"Bajram Curri","Bajram Curri","42,3582","20,076",Albania,ALB,0
+1008273800,DelvinÃƒÂ«,Delvine,"39,9494","20,0958",Albania,ALB,0
+1008276050,VlorÃƒÂ«,Vlore,"40,45","19,4833",Albania,ALB,0
+1008293317,Fier,Fier,"40,7167","19,55",Albania,ALB,0
+1008302673,CÃƒÂ«rrik,Cerrik,"41,0333","19,9833",Albania,ALB,0
+1008348826,Shijak,Shijak,"41,3456","19,5672",Albania,ALB,0
+1008361921,KorÃƒÂ§ÃƒÂ«,Korce,"40,6167","20,7667",Albania,ALB,0
+1008366566,Pogradec,Pogradec,"40,9","20,65",Albania,ALB,0
+1008368062,GjirokastÃƒÂ«r,Gjirokaster,"40,0758","20,1389",Albania,ALB,0
+1008373202,ShÃƒÂ«ngjin,Shengjin,"41,8136","19,5939",Albania,ALB,0
+1008394491,"Vau i DejÃƒÂ«s","Vau i Dejes",42,"19,6333",Albania,ALB,0
+1008394656,Peqin,Peqin,"41,05","19,75",Albania,ALB,0
+1008409270,Elbasan,Elbasan,"41,1125","20,0822",Albania,ALB,0
+1008412550,Peshkopi,Peshkopi,"41,6831","20,4289",Albania,ALB,0
+1008422115,RrogozhinÃƒÂ«,Rrogozhine,"41,0761","19,6667",Albania,ALB,0
+1008475617,KavajÃƒÂ«,Kavaje,"41,1833","19,55",Albania,ALB,0
+1008483668,Libonik,Libonik,"40,75","20,7167",Albania,ALB,0
+1008489904,DivjakÃƒÂ«,Divjake,"40,9964","19,5327",Albania,ALB,0
+1008520632,KuÃƒÂ§ovÃƒÂ«,Kucove,"40,8039","19,9144",Albania,ALB,0
+1008549519,Mamurras,Mamurras,"41,5775","19,6922",Albania,ALB,0
+1008566247,Ãƒâ€¡orovodÃƒÂ«,Corovode,"40,5042","20,2272",Albania,ALB,0
+1008604833,PÃƒÂ«rmet,Permet,"40,2333","20,35",Albania,ALB,0
+1008632813,Gramsh,Gramsh,"40,8667","20,1833",Albania,ALB,0
+1008639331,Librazhd-QendÃƒÂ«r,Librazhd-Qender,"41,1969","20,3356",Albania,ALB,0
+1008647190,Sukth,Sukth,"41,3833","19,5333",Albania,ALB,0
+1008649172,KukÃƒÂ«s,Kukes,"42,0758","20,4231",Albania,ALB,0
+1008652935,FushÃƒÂ«-KrujÃƒÂ«,Fushe-Kruje,"41,4833","19,7167",Albania,ALB,0
+1008654405,Prrenjas,Prrenjas,"41,0667","20,55",Albania,ALB,0
+1008683571,TepelenÃƒÂ«,Tepelene,"40,3","20,0167",Albania,ALB,0
+1008696208,KrujÃƒÂ«,Kruje,"41,5178","19,7978",Albania,ALB,0
+1008709957,Ballsh,Ballsh,"40,5991","19,7359",Albania,ALB,0
+1008739218,PukÃƒÂ«,Puke,"42,05","19,9",Albania,ALB,0
+1008762785,LaÃƒÂ§,Lac,"41,6353","19,7131",Albania,ALB,0
+1008765146,Roskovec,Roskovec,"40,7375","19,7022",Albania,ALB,0
+1008790888,LushnjÃƒÂ«,Lushnje,"40,9333","19,7",Albania,ALB,0
+1008800835,Librazhd,Librazhd,"41,1833","20,3167",Albania,ALB,0
+1008809272,BulqizÃƒÂ«,Bulqize,"41,5","20,2167",Albania,ALB,0
+1008823158,KrumÃƒÂ«,Krume,"42,1961","20,4146",Albania,ALB,0
+1008832248,Bilisht,Bilisht,"40,6275","20,99",Albania,ALB,0
+1008845269,RrÃƒÂ«shen,Rreshen,"41,7667","19,8833",Albania,ALB,0
+1008879697,SarandÃƒÂ«,Sarande,"39,8833","20,0167",Albania,ALB,0
+1008883153,Burrel,Burrel,"41,6",20,Albania,ALB,0
+1008889153,LezhÃƒÂ«,Lezhe,"41,7805","19,6434",Albania,ALB,0
+1008955153,Berat,Berat,"40,7049","19,9497",Albania,ALB,0
+1008977725,ShkodÃƒÂ«r,Shkoder,"42,0667","19,5",Albania,ALB,0
+1012000031,"In Guezzam","In Guezzam","19,5686","5,7722",Algeria,DZA,0
+1012006499,Bouira,Bouira,"36,3783","3,8925",Algeria,DZA,0
+1012011041,"Draa Ben Khedda","Draa Ben Khedda","36,7349","3,9556",Algeria,DZA,0
+1012016677,"Bordj Bou Arreridj","Bordj Bou Arreridj","36,0667","4,7667",Algeria,DZA,0
+1012021090,"AÃƒÂ¯n BeÃƒÂ¯da","Ain Beida","35,7964","7,3928",Algeria,DZA,0
+1012035343,Chorfa,Chorfa,"36,3617","4,3307",Algeria,DZA,0
+1012044380,"Ben NÃ¢â‚¬â„¢Choud","Ben N'Choud","36,8624","3,8806",Algeria,DZA,0
+1012045463,Amalou,Amalou,"36,4778","4,6333",Algeria,DZA,0
+1012045589,Blida,Blida,"36,4722","2,8333",Algeria,DZA,0
+1012048018,"Ben Nasseur","Ben Nasseur","33,1107","6,441",Algeria,DZA,0
+1012057188,"Bordj Okhriss","Bordj Okhriss","36,0833","3,9667",Algeria,DZA,0
+1012061703,Mostaganem,Mostaganem,"35,9333","0,0903",Algeria,DZA,0
+1012065880,Naciria,Naciria,"36,75","3,8333",Algeria,DZA,0
+1012066745,Boukhralfa,Boukhralfa,"36,6144","5,0872",Algeria,DZA,0
+1012074116,"Ã¢â‚¬â„¢AÃƒÂ¯n Abessa","'Ain Abessa","36,3","5,295",Algeria,DZA,0
+1012074690,GhardaÃƒÂ¯a,Ghardaia,"32,4833","3,6667",Algeria,DZA,0
+1012087552,Azazga,Azazga,"36,7453","4,3711",Algeria,DZA,0
+1012093229,Batna,Batna,"35,55","6,1667",Algeria,DZA,0
+1012098651,"Tala Yfassene","Tala Yfassene","36,4583","5,0889",Algeria,DZA,0
+1012109892,"Ouled Djellal","Ouled Djellal","34,4167","5,0667",Algeria,DZA,0
+1012114797,Toudja,Toudja,"36,7586","4,8933",Algeria,DZA,0
+1012117061,"LÃ¢â‚¬â„¢Arbaa NaÃƒÂ¯t Irathen","L'Arbaa Nait Irathen","36,6367","4,2067",Algeria,DZA,0
+1012123414,"Sidi Bel AbbÃƒÂ¨s","Sidi Bel Abbes","35,2","-0,6333",Algeria,DZA,0
+1012126319,Oran,Oran,"35,6969","-0,6331",Algeria,DZA,0
+1012126997,"Tizi Ouzou","Tizi Ouzou","36,7169","4,0497",Algeria,DZA,0
+1012130143,"Si Mustapha","Si Mustapha","36,7247","3,6153",Algeria,DZA,0
+1012140298,BejaÃƒÂ¯a,Bejaia,"36,7511","5,0642",Algeria,DZA,0
+1012148937,"El Oued","El Oued","33,3683","6,8675",Algeria,DZA,0
+1012150824,Tigzirt,Tigzirt,"36,8931","4,1225",Algeria,DZA,0
+1012151355,"Didouche Mourad","Didouche Mourad","36,4484","6,6339",Algeria,DZA,0
+1012153214,"El MeghaÃƒÂ¯er","El Meghaier","33,9506","5,9242",Algeria,DZA,0
+1012162135,I-n-Amguel,I-n-Amguel,"23,6936","5,1647",Algeria,DZA,0
+1012196375,TÃƒÂ©bessa,Tebessa,"35,4","8,1167",Algeria,DZA,0
+1012201146,I-n-Salah,I-n-Salah,"27,1936","2,4606",Algeria,DZA,0
+1012201497,Mechtras,Mechtras,"36,5448","4,0049",Algeria,DZA,0
+1012205687,"El Tarf","El Tarf","36,7669","8,3136",Algeria,DZA,0
+1012221429,I-n-Amenas,I-n-Amenas,"28,05","9,55",Algeria,DZA,0
+1012233848,Laghouat,Laghouat,"33,8","2,865",Algeria,DZA,0
+1012240413,Tassamert,Tassamert,"36,2693","4,823",Algeria,DZA,0
+1012240654,Souama,Souama,"36,6417","4,3416",Algeria,DZA,0
+1012245949,TadmaÃƒÂ¯t,Tadmait,"36,7427","3,9019",Algeria,DZA,0
+1012249358,"Bir Ghbalou","Bir Ghbalou","36,2631","3,5866",Algeria,DZA,0
+1012254407,Timoktene,Timoktene,"27,0217","1,015",Algeria,DZA,0
+1012262770,Abadla,Abadla,"31,0167","-2,7333",Algeria,DZA,0
+1012266321,Guelma,Guelma,"36,4619","7,4258",Algeria,DZA,0
+1012268984,Djelfa,Djelfa,"34,6667","3,25",Algeria,DZA,0
+1012275076,Constantine,Constantine,"36,365","6,6147",Algeria,DZA,0
+1012278908,Messaad,Messaad,"34,1542","3,4969",Algeria,DZA,0
+1012278992,Kadiria,Kadiria,"36,5333","3,6833",Algeria,DZA,0
+1012284313,Lakhdaria,Lakhdaria,"36,6167","3,5833",Algeria,DZA,0
+1012285874,SaÃƒÂ¯da,Saida,"34,8303","0,1517",Algeria,DZA,0
+1012287430,"Bordj MenaÃƒÂ¯el","Bordj Menaiel","36,7417","3,7231",Algeria,DZA,0
+1012290725,Azeffoun,Azeffoun,"36,8961","4,4204",Algeria,DZA,0
+1012292620,"El Eulma","El Eulma","36,1528","5,69",Algeria,DZA,0
+1012312650,Ouadhia,Ouadhia,"36,55","4,0833",Algeria,DZA,0
+1012326451,Iflissen,Iflissen,"36,8636","4,2203",Algeria,DZA,0
+1012327989,"Beni Ounif","Beni Ounif","32,05","-1,25",Algeria,DZA,0
+1012339655,"Hassi Messaoud","Hassi Messaoud","31,7","6,0667",Algeria,DZA,0
+1012348181,"Seddouk Oufella","Seddouk Oufella","36,6061","4,6389",Algeria,DZA,0
+1012351010,Timimoun,Timimoun,"29,25","0,2333",Algeria,DZA,0
+1012371820,BÃƒÂ©char,Bechar,"31,6333","-2,2",Algeria,DZA,0
+1012372550,Freha,Freha,"36,762","4,3163",Algeria,DZA,0
+1012376964,Aomar,Aomar,"36,5","3,7833",Algeria,DZA,0
+1012378735,Souma,Souma,"36,5183","2,9053",Algeria,DZA,0
+1012379618,Boudjima,Boudjima,"36,814","4,1588",Algeria,DZA,0
+1012383350,"El Adjiba","El Adjiba","36,3333","4,15",Algeria,DZA,0
+1012384530,Mekla,Mekla,"36,6876","4,2681",Algeria,DZA,0
+1012419619,"Souk Ahras","Souk Ahras","36,2864","7,9511",Algeria,DZA,0
+1012420167,"Beni Amrane","Beni Amrane","36,6686","3,5922",Algeria,DZA,0
+1012425687,Ouargla,Ouargla,"31,95","5,3167",Algeria,DZA,0
+1012450434,Tindouf,Tindouf,"27,6753","-8,1286",Algeria,DZA,0
+1012453452,"Ã¢â‚¬â„¢AÃƒÂ¯n Arnat","'Ain Arnat","36,1833","5,3167",Algeria,DZA,0
+1012462113,Adrar,Adrar,"27,8742","-0,2939",Algeria,DZA,0
+1012469007,"AÃƒÂ¯n Oussera","Ain Oussera","35,4489","2,9044",Algeria,DZA,0
+1012471822,"AÃƒÂ¯t Bou Madhi","Ait Bou Madhi","36,5009","4,2",Algeria,DZA,0
+1012479386,Abalessa,Abalessa,"22,89","4,8472",Algeria,DZA,0
+1012495148,Khenchela,Khenchela,"35,4167","7,1333",Algeria,DZA,0
+1012499058,Illizi,Illizi,"26,508","8,4829",Algeria,DZA,0
+1012512259,Boufarik,Boufarik,"36,575","2,9097",Algeria,DZA,0
+1012529757,"Ã¢â‚¬â„¢AÃƒÂ¯n Roua","'Ain Roua","36,3344","5,1806",Algeria,DZA,0
+1012532288,"Souk el Had","Souk el Had","36,6909","3,5889",Algeria,DZA,0
+1012546670,Touggourt,Touggourt,"33,1","6,0667",Algeria,DZA,0
+1012563094,"Draa el Mizan","Draa el Mizan","36,5333","3,8333",Algeria,DZA,0
+1012563877,Bechloul,Bechloul,"36,3167","4,0667",Algeria,DZA,0
+1012574444,"Beni AÃƒÂ¯ssi","Beni Aissi","29,6","0,25",Algeria,DZA,0
+1012591585,Tifra,Tifra,"36,6664","4,6972",Algeria,DZA,0
+1012595495,"Ã¢â‚¬â„¢AÃƒÂ¯n el Hammam","'Ain el Hammam","36,5714","4,3097",Algeria,DZA,0
+1012600001,Annaba,Annaba,"36,9","7,7667",Algeria,DZA,0
+1012612535,Yakouren,Yakouren,"36,7348","4,4386",Algeria,DZA,0
+1012618002,"Sidi Daoud","Sidi Daoud","36,85","3,85",Algeria,DZA,0
+1012619903,Skikda,Skikda,"36,8667","6,9",Algeria,DZA,0
+1012623458,"Ouled Moussa","Ouled Moussa","36,6831","3,3681",Algeria,DZA,0
+1012627486,Boumerdes,Boumerdes,"36,7594","3,4728",Algeria,DZA,0
+1012633792,"Beni AbbÃƒÂ¨s","Beni Abbes","30,08","-2,1",Algeria,DZA,0
+1012656063,Mila,Mila,"36,4481","6,2622",Algeria,DZA,0
+1012656497,"AÃƒÂ¯n Defla","Ain Defla","36,2583","1,9583",Algeria,DZA,0
+1012660842,"Beni Fouda","Beni Fouda","36,2861","5,6071",Algeria,DZA,0
+1012667528,Moudjbara,Moudjbara,"34,5037","3,4704",Algeria,DZA,0
+1012675026,Afir,Afir,"36,7676","3,7029",Algeria,DZA,0
+1012677951,"AÃƒÂ¯t YaÃƒÂ¯ch","Ait Yaich","36,5811","4,3303",Algeria,DZA,0
+1012695288,"AÃƒÂ¯n ZaouÃƒÂ¯a","Ain Zaouia","36,5483","3,8942",Algeria,DZA,0
+1012696122,Arhribs,Arhribs,"36,8022","4,3227",Algeria,DZA,0
+1012706441,"El MaÃƒÂ¯n","El Main","36,3667","4,75",Algeria,DZA,0
+1012706826,"El Milia","El Milia","36,75","6,2667",Algeria,DZA,0
+1012709576,Reggane,Reggane,"26,7","0,1667",Algeria,DZA,0
+1012717910,Dellys,Dellys,"36,9167","3,8833",Algeria,DZA,0
+1012718665,"Bou Nouh","Bou Nouh","36,5","3,9333",Algeria,DZA,0
+1012727170,"Ouled Rached","Ouled Rached","36,2119","4,1106",Algeria,DZA,0
+1012738269,Mascara,Mascara,"35,4","0,1333",Algeria,DZA,0
+1012740129,Boghni,Boghni,"36,5437","3,9523",Algeria,DZA,0
+1012742443,"Beni Douala","Beni Douala","36,6167","4,0667",Algeria,DZA,0
+1012743339,Tissemsilt,Tissemsilt,"35,6072","1,8106",Algeria,DZA,0
+1012745524,Iferhounene,Iferhounene,"36,5338","4,3701",Algeria,DZA,0
+1012746080,"Ã¢â‚¬â„¢AÃƒÂ¯n Azel","'Ain Azel","35,8433","5,5219",Algeria,DZA,0
+1012755999,Charouine,Charouine,"29,0167","-0,2667",Algeria,DZA,0
+1012758282,MÃƒÂ©dÃƒÂ©a,Medea,"36,2675","2,75",Algeria,DZA,0
+1012763655,"AÃƒÂ¯n Temouchent","Ain Temouchent","35,3044","-1,14",Algeria,DZA,0
+1012765474,Tamanrasset,Tamanrasset,"22,785","5,5228",Algeria,DZA,0
+1012766595,Amoucha,Amoucha,"36,388","5,4108",Algeria,DZA,0
+1012767619,Timizart,Timizart,"36,8","4,2667",Algeria,DZA,0
+1012772239,Chlef,Chlef,"36,1647","1,3317",Algeria,DZA,0
+1012779789,"Es Senia","Es Senia","35,6478","-0,6239",Algeria,DZA,0
+1012782547,Jijel,Jijel,"36,8206","5,7667",Algeria,DZA,0
+1012785868,Tiaret,Tiaret,"35,3667","1,3167",Algeria,DZA,0
+1012786926,Makouda,Makouda,"36,7909","4,0669",Algeria,DZA,0
+1012794312,"Tizi Gheniff","Tizi Gheniff","36,5891","3,7678",Algeria,DZA,0
+1012798792,Tichi,Tichi,"36,6675","5,1601",Algeria,DZA,0
+1012820383,"Sidi Namane","Sidi Namane","36,7581","3,9839",Algeria,DZA,0
+1012827195,Djanet,Djanet,"24,555","9,4853",Algeria,DZA,0
+1012834851,"El Golea","El Golea","30,6","2,9",Algeria,DZA,0
+1012841664,Taourga,Taourga,"36,7938","3,9463",Algeria,DZA,0
+1012850542,Naama,Naama,"33,2678","-0,3111",Algeria,DZA,0
+1012857730,MÃ¢â‚¬â„¢Sila,M'Sila,"35,7058","4,5419",Algeria,DZA,0
+1012858445,Takerbouzt,Takerbouzt,"36,418","4,3428",Algeria,DZA,0
+1012866308,Tipasa,Tipasa,"36,5942","2,443",Algeria,DZA,0
+1012884513,"AÃƒÂ¯n Sefra","Ain Sefra","32,75","-0,5833",Algeria,DZA,0
+1012906892,"El Bayadh","El Bayadh","33,6831","1,0192",Algeria,DZA,0
+1012908635,Thenia,Thenia,"36,7278","3,5539",Algeria,DZA,0
+1012925118,Tizi-n-Bechar,Tizi-n-Bechar,"36,4311","5,36",Algeria,DZA,0
+1012925920,Tizi-n-Tleta,Tizi-n-Tleta,"36,5457","4,0571",Algeria,DZA,0
+1012931222,"Bou SaÃƒÂ¢da","Bou Saada","35,2083","4,1739",Algeria,DZA,0
+1012932001,Tirmitine,Tirmitine,"36,6618","3,9848",Algeria,DZA,0
+1012938624,Ifigha,Ifigha,"36,6667","4,4167",Algeria,DZA,0
+1012939885,Relizane,Relizane,"35,7372","0,5558",Algeria,DZA,0
+1012945794,"Bordj Mokhtar","Bordj Mokhtar","21,3289","0,9542",Algeria,DZA,0
+1012947247,Biskra,Biskra,"34,85","5,7333",Algeria,DZA,0
+1012950888,Akbou,Akbou,"36,4667","4,5333",Algeria,DZA,0
+1012958256,Mecheria,Mecheria,"33,55","-0,2833",Algeria,DZA,0
+1012958880,"Oum el Bouaghi","Oum el Bouaghi","35,8706","7,115",Algeria,DZA,0
+1012966884,"Tizi Rached","Tizi Rached","36,6718","4,1918",Algeria,DZA,0
+1012969588,Azzaba,Azzaba,"36,7333","7,1",Algeria,DZA,0
+1012971347,Arbaoun,Arbaoun,"36,4667","5,65",Algeria,DZA,0
+1012973369,Algiers,Algiers,"36,7764","3,0586",Algeria,DZA,1
+1012978325,Tlemcen,Tlemcen,"34,8828","-1,3167",Algeria,DZA,0
+1012981116,SÃƒÂ©tif,Setif,"36,19","5,41",Algeria,DZA,0
+1012989318,Djinet,Djinet,"36,877","3,7231",Algeria,DZA,0
+1012996789,Sali,Sali,"26,9833","-0,0333",Algeria,DZA,0
+1016976740,"Pago Pago","Pago Pago","-14,274","-170,7046","American Samoa",ASM,1
+1020008674,Escaldes-Engordany,Escaldes-Engordany,"42,5089","1,5408",Andorra,AND,0
+1020417470,Encamp,Encamp,"42,5361","1,5828",Andorra,AND,0
+1020543453,"La Massana","La Massana","42,5442","1,5164",Andorra,AND,0
+1020594179,Canillo,Canillo,"42,5664","1,6009",Andorra,AND,0
+1020655238,Ordino,Ordino,"42,555","1,5331",Andorra,AND,0
+1020828846,"Andorra la Vella","Andorra la Vella","42,5","1,5",Andorra,AND,1
+1020885733,"Sant JuliÃƒÂ  de LÃƒÂ²ria","Sant Julia de Loria","42,47","1,49",Andorra,AND,0
+1024007950,Quibala,Quibala,"-10,7311","15,0003",Angola,AGO,0
+1024009942,Chibemba,Chibemba,"-15,7355","13,8905",Angola,AGO,0
+1024011632,Quilenda,Quilenda,"-10,6333","14,3333",Angola,AGO,0
+1024017930,Chibia,Chibia,"-15,1833","13,7",Angola,AGO,0
+1024023900,Ucuma,Ucuma,"-12,85","15,0667",Angola,AGO,0
+1024025450,Nzeto,Nzeto,"-7,229","12,865",Angola,AGO,0
+1024029875,Alto-Cuilo,Alto-Cuilo,"-10,05","19,5167",Angola,AGO,0
+1024037086,Camacupa,Camacupa,"-12,0167","17,4833",Angola,AGO,0
+1024050171,Caxito,Caxito,"-8,5785","13,6642",Angola,AGO,0
+1024056286,Lucapa,Lucapa,"-8,4228","20,7393",Angola,AGO,0
+1024063224,Humpata,Humpata,"-15,0725","13,3678",Angola,AGO,0
+1024065318,Mungo,Mungo,"-11,6667","16,1667",Angola,AGO,0
+1024079828,Huambo,Huambo,"-12,7667","15,7333",Angola,AGO,0
+1024081092,Longonjo,Longonjo,"-12,9067","15,1864",Angola,AGO,0
+1024089157,Chipindo,Chipindo,"-13,8244","15,8",Angola,AGO,0
+1024103269,Chitembo,Chitembo,"-13,5167","16,7667",Angola,AGO,0
+1024105319,Chongoroi,Chongoroi,"-13,5667","13,95",Angola,AGO,0
+1024121799,Dundo,Dundo,"-7,38","20,83",Angola,AGO,0
+1024128946,Lobito,Lobito,"-12,3597","13,5308",Angola,AGO,0
+1024135358,Cuchi,Cuchi,"-14,6372","16,9611",Angola,AGO,0
+1024141961,Benguela,Benguela,"-12,55","13,4167",Angola,AGO,0
+1024158837,Tchitado,Tchitado,"-17,3196","13,92",Angola,AGO,0
+1024159015,Gabela,Gabela,"-10,85","14,3667",Angola,AGO,0
+1024191137,Chinguar,Chinguar,"-12,55","16,3333",Angola,AGO,0
+1024195525,"Cuito Cuanavale","Cuito Cuanavale","-15,1639","19,1731",Angola,AGO,0
+1024196826,Belas,Belas,"-9,0689","13,1608",Angola,AGO,0
+1024240126,Caluquembe,Caluquembe,"-13,9208","14,5347",Angola,AGO,0
+1024251027,Balombo,Balombo,"-12,35","14,7667",Angola,AGO,0
+1024280825,Londuimbali,Londuimbali,"-12,2419","15,3133",Angola,AGO,0
+1024283760,Luena,Luena,"-11,79","19,9",Angola,AGO,0
+1024297937,Sumbe,Sumbe,"-11,2052","13,8417",Angola,AGO,0
+1024312565,Cambambe,Cambambe,"-9,7431","14,4914",Angola,AGO,0
+1024319966,Bolongongo,Bolongongo,"-8,4667","15,25",Angola,AGO,0
+1024320952,Ganda,Ganda,"-13,0167","14,6333",Angola,AGO,0
+1024321158,Catape,Catape,"-13,7667","15,0833",Angola,AGO,0
+1024323066,Dondo,Dondo,"-9,6942","14,4228",Angola,AGO,0
+1024323582,Xangongo,Xangongo,"-16,7467","14,9747",Angola,AGO,0
+1024326839,Saurimo,Saurimo,"-9,6589","20,3934",Angola,AGO,0
+1024334740,Cazombo,Cazombo,"-11,9058","22,9217",Angola,AGO,0
+1024356360,Cacongo,Cacongo,"-5,2333","12,1333",Angola,AGO,0
+1024402215,Conda,Conda,"-11,1667","14,5",Angola,AGO,0
+1024414170,Catchiungo,Catchiungo,"-12,5667","16,2333",Angola,AGO,0
+1024458480,Kuvango,Kuvango,"-14,4667","16,3",Angola,AGO,0
+1024474012,Cabinda,Cabinda,"-5,5667","12,2",Angola,AGO,0
+1024489244,"Porto Alexandre",PortoAlexandre,"-15,8032","11,8459",Angola,AGO,0
+1024504085,Ondjiva,Ondjiva,"-17,0667","15,7333",Angola,AGO,0
+1024511668,Cassongue,Cassongue,"-11,8333",15,Angola,AGO,0
+1024514740,Cuango,Cuango,"-9,1444","18,0464",Angola,AGO,0
+1024532464,"Mbanza Kongo","Mbanza Kongo","-6,2667","14,25",Angola,AGO,0
+1024536521,Nambuangongo,Nambuangongo,"-8,0483","14,3372",Angola,AGO,0
+1024545873,Calulo,Calulo,"-9,9996","14,9",Angola,AGO,0
+1024559448,Cacuaco,Cacuaco,"-8,7833","13,3667",Angola,AGO,0
+1024568664,Lubalo,Lubalo,"-9,15","19,2833",Angola,AGO,0
+1024580158,Cubal,Cubal,"-13,1117","14,3672",Angola,AGO,0
+1024585059,Mavinga,Mavinga,"-15,7895","20,36",Angola,AGO,0
+1024592975,Cacolo,Cacolo,"-10,1365","19,2865",Angola,AGO,0
+1024609563,Ambriz,Ambriz,"-7,85","13,1167",Angola,AGO,0
+1024638606,Cahama,Cahama,"-16,2833","14,3167",Angola,AGO,0
+1024645515,Ndalatando,Ndalatando,"-9,3","14,9167",Angola,AGO,0
+1024646532,Muconda,Muconda,"-10,6","21,3167",Angola,AGO,0
+1024666275,UÃƒÂ­ge,Uige,"-7,6087","15,0613",Angola,AGO,0
+1024668438,"Bala Cangamba","Bala Cangamba","-13,6996","19,86",Angola,AGO,0
+1024669127,Lubango,Lubango,"-14,9167","13,5",Angola,AGO,0
+1024677127,"Uacu Cungo","Uacu Cungo","-11,3583","15,1194",Angola,AGO,0
+1024686026,Cuemba,Cuemba,"-12,15","18,0833",Angola,AGO,0
+1024699465,Luau,Luau,"-10,7","22,2333",Angola,AGO,0
+1024701540,Camabatela,Camabatela,"-8,1833","15,3667",Angola,AGO,0
+1024725650,Menongue,Menongue,"-14,6556","17,6842",Angola,AGO,0
+1024743438,"BaÃƒÂ­a Farta","Baia Farta","-12,6128","13,1987",Angola,AGO,0
+1024774947,Malanje,Malanje,"-9,5469","16,3387",Angola,AGO,0
+1024785067,MoÃƒÂ§ÃƒÂ¢medes,Mocamedes,"-15,1953","12,1508",Angola,AGO,0
+1024818756,"Porto Amboim","Porto Amboim","-10,7183","13,75",Angola,AGO,0
+1024821574,Catumbela,Catumbela,"-12,4167","13,5333",Angola,AGO,0
+1024822780,Calenga,Calenga,"-11,3196","16,2",Angola,AGO,0
+1024843393,Namacunde,Namacunde,"-17,3","15,85",Angola,AGO,0
+1024863343,"Vila Teixeira da Silva","Vila Teixeira da Silva","-12,1958","15,8556",Angola,AGO,0
+1024864144,"Capenda Camulemba","Capenda Camulemba","-9,4233","18,4328",Angola,AGO,0
+1024883433,Tchitato,Tchitato,"-7,345","20,8198",Angola,AGO,0
+1024891825,Caimbambo,Caimbambo,"-12,9","14,0833",Angola,AGO,0
+1024892795,Chicomba,Chicomba,"-14,1333","14,9167",Angola,AGO,0
+1024895987,Quilengues,Quilengues,"-14,0814","14,0764",Angola,AGO,0
+1024902504,Tchindjendje,Tchindjendje,"-12,8167","14,9333",Angola,AGO,0
+1024903782,Soio,Soio,"-6,1333","12,3667",Angola,AGO,0
+1024911597,Ndjamba,Ndjamba,"-14,7","16,0667",Angola,AGO,0
+1024922883,Bocoio,Bocoio,"-12,4667","14,1333",Angola,AGO,0
+1024923411,Songo,Songo,"-7,3496","14,85",Angola,AGO,0
+1024929138,Quipungo,Quipungo,"-14,8167","14,5167",Angola,AGO,0
+1024937810,"Barra do Dande","Barra do Dande","-8,4728","13,3731",Angola,AGO,0
+1024939858,Cuito,Cuito,"-12,3833","16,9333",Angola,AGO,0
+1024949724,Luanda,Luanda,"-8,8383","13,2344",Angola,AGO,1
+1024978551,Negage,Negage,"-7,7667","15,2667",Angola,AGO,0
+1024988332,Talatona,Talatona,"-8,9167","13,1833",Angola,AGO,0
+1024994288,Catabola,Catabola,"-12,1167","17,3",Angola,AGO,0
+1028912067,"Saint JohnÃ¢â‚¬â„¢s","Saint John's","17,1211","-61,8447","Antigua And Barbuda",ATG,1
+1031015845,Hac?qabul,Haciqabul,"40,0387","48,9429",Azerbaijan,AZE,0
+1031031472,Culfa,Culfa,"38,9558","45,6308",Azerbaijan,AZE,0
+1031050255,Q?vraq,Qivraq,"39,3994","45,1151",Azerbaijan,AZE,0
+1031053363,D?v?ÃƒÂ§i,Davaci,"41,2012","48,9871",Azerbaijan,AZE,0
+1031053512,Xank?ndi,Xankandi,"39,8153","46,7519",Azerbaijan,AZE,0
+1031058715,Pirallah?,Pirallahi,"40,4708","50,3217",Azerbaijan,AZE,0
+1031059559,Qusar,Qusar,"41,4219","48,4214",Azerbaijan,AZE,0
+1031078072,Quba,Quba,"41,3653","48,5264",Azerbaijan,AZE,0
+1031114052,Bak?xanov,Bakixanov,"40,4217","49,9644",Azerbaijan,AZE,0
+1031116600,"A?a?? Ay?bl?","Asagi Ayibli","40,9347","45,8261",Azerbaijan,AZE,0
+1031119834,X?nd?r?stan,Xindiristan,"40,1214","47,1075",Azerbaijan,AZE,0
