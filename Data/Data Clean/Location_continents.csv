@@ -1,0 +1,8 @@
+ID_CONTINENT,nom_continent,area_km2,densite_km2,population_2021,population_monde_%
+1,Asia,31033131,150,4641054775,60
+2,Africa,29648481,45,1340598147,17
+3,Europe,22134900,34,747636026,10
+4,"North America",21330000,28,592072212,8
+5,"South America",17461112,25,430759766,6
+6,Oceania,8486460,5,43111704,1
+7,Antarctica,13720000,0,0,0
