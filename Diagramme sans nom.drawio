@@ -1,10 +1,10 @@
-<mxfile modified="2022-09-14T10:19:41.778Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="J41o9qkUaI056ZIIO2bp" version="20.3.0" type="github">
+<mxfile modified="2022-09-19T08:05:09.062Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9E9BHatXzmiS4elCNyBI" version="20.3.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="14" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+        <mxCell id="14" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="shadow=0;fontSize=14;align=left;spacing=10;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="130" width="990" height="391" as="geometry" />
         </mxCell>
         <mxCell id="15" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="14" vertex="1">
@@ -80,7 +80,7 @@
           <mxGeometry x="872.14" y="19.999999999999996" width="71.33255220417632" height="81.6473317865429" as="geometry" />
         </mxCell>
         <mxCell id="818" value="Architecture: Backup and Archive &amp;gt; API Hosting" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="90" width="650" height="40" as="geometry" />
+          <mxGeometry x="260" y="40" width="650" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4D6Yn64_4JIRmKL3iklQ-1015" style="edgeStyle=elbowEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
